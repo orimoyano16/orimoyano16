@@ -5,6 +5,7 @@
 💻 Apasionada por la programación, las bases de datos y el desarrollo web
 
 🛠️ Tecnologías que estoy aprendiendo
+
 SQL Server – consultas, bases de datos relacionales
 
 Python – lógica, automatización y fundamentos de programación
