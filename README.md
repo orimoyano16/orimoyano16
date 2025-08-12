@@ -1,7 +1,9 @@
 👋 ¡Hola! Soy Oriana Moyano
 
 🎓 Estudiante de Tecnicatura en Desarrollo de Software Full Stack
+
 📍 Actualmente cursando en la sede de la Universidad  Provincial de Cordoba, en Argentina.
+
 💻 Apasionada por la programación, las bases de datos y el desarrollo web
 
 🛠️ Tecnologías que estoy aprendiendo
